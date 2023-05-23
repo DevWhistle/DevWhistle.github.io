@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dev Whistle # the main title
+title: DevWhistle # the main title
 
 tagline: 개발하자. # it will display as the sub-title
 
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dev Whistle
+  name: DevWhistle
   email: yeonhwi3@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: #"/commons/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
